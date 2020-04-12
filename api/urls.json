@@ -1,0 +1,13 @@
+{
+  "urls": [
+    {
+      "name": "uol",
+      "url": "http://uol.com.br"
+    },
+    {
+      "name": "google",
+      "url": "http://google.com.br"
+    },
+    {}
+  ]
+}
